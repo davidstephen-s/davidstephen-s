@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, David Stephen S</h1>
+<h1 align="center">Hi 👋, I'm David Stephen S 🙂</h1>
 <h3 align="center">A passionate Web developer from India.</h3>
 
 - 🌱 I’m currently learning **MERN Full Stack Web Development**
