@@ -19,8 +19,8 @@
  <a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mssql" width="60" height="60"/></a> 
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidstephen-s&show_icons=true&locale=en&theme=dark" alt="davidstephen-s" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidstephen-s&show_icons=true&locale=en&theme=dark" alt="davidstephen-s" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidstephen-s&show_icons=true&locale=en&theme=dark" alt="davidstephen-s" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=davidstephen-s&show_icons=true&locale=en&theme=dark" alt="davidstephen-s" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidstephen-s&theme=dark" alt="davidstephen-s" /></p>
